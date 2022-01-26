@@ -1,3 +1,5 @@
 corolla
 fusca
 parati
+CHEVROLET
+VOLKSWAGEN
